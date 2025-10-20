@@ -13,7 +13,7 @@
 - [x] CS 186 课程实验（关系型数据库）
   - [x] SQL
   - [x] B+ Trees
-  - [ ] Joins and Query Optimization
+  - [x] Joins and Query Optimization
   - [ ] Concurrency
   - [ ] Recovery
   - [ ] NoSQL
