@@ -14,7 +14,7 @@
   - [x] SQL
   - [x] B+ Trees
   - [x] Joins and Query Optimization
-  - [ ] Concurrency
+  - [x] Concurrency
   - [ ] Recovery
   - [ ] NoSQL
 
