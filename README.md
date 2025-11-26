@@ -15,8 +15,8 @@
   - [x] B+ Trees
   - [x] Joins and Query Optimization
   - [x] Concurrency
-  - [ ] Recovery
-  - [ ] NoSQL
+  - [x] Recovery
+  - [x] NoSQL
 
 <!--
 **iwantsomememories/iwantsomememories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
