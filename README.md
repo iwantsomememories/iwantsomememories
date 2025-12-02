@@ -17,7 +17,7 @@
   - [x] Concurrency
   - [x] Recovery
   - [x] NoSQL
-- [x] MIT 6.824（分布式系统）
+- [x] MIT 6.824 课程实验（分布式系统）
   - [x] MapReduce
   - [x] Raft
   - [x] Fault-tolerant Key/Value Service
