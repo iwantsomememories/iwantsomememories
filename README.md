@@ -9,7 +9,7 @@
 - [x] CS61A 课程实验（计算机程序的组成）
 - [x] CS61B Gitlet（简单的版本控制系统）
 - [ ] CS61B 2d游戏
-- [x] MIT 6.s081 课程实验（操作系统）
+- [x] MIT 6.S081 课程实验（操作系统）
 - [x] CS 186 课程实验（关系型数据库）
   - [x] SQL
   - [x] B+ Trees
@@ -17,6 +17,11 @@
   - [x] Concurrency
   - [x] Recovery
   - [x] NoSQL
+- [x] MIT 6.824（分布式系统）
+  - [x] MapReduce
+  - [x] Raft
+  - [x] Fault-tolerant Key/Value Service
+  - [ ] Sharded Key/Value Service
 
 <!--
 **iwantsomememories/iwantsomememories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
