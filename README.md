@@ -21,7 +21,7 @@
   - [x] MapReduce
   - [x] Raft
   - [x] Fault-tolerant Key/Value Service
-  - [ ] Sharded Key/Value Service
+  - [x] Sharded Key/Value Service
 
 <!--
 **iwantsomememories/iwantsomememories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
