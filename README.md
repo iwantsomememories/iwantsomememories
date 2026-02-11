@@ -1,4 +1,6 @@
-[![Fqcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwantsomememories)](https://github.com/anuraghazra/github-readme-stats)
+# Fqcd 的个人主页
+
+[![Fqcd's GitHub stats](https://github-readme-stats-nine-flame-67.vercel.app/api?username=fqcd)](https://github-readme-stats-nine-flame-67.vercel.app)
 
 ## 个人项目
 
