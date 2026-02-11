@@ -24,6 +24,11 @@
   - [x] Raft
   - [x] Fault-tolerant Key/Value Service
   - [x] Sharded Key/Value Service
+- [x] TinyKV （分布式键值存储引擎）
+  - [x] Standalone KV
+  - [x] Raft KV
+  - [ ] Multi-raft KV
+  - [ ] Transaction
 
 <!--
 **iwantsomememories/iwantsomememories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
