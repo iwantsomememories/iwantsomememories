@@ -27,8 +27,8 @@
 - [x] TinyKV （分布式键值存储引擎）
   - [x] Standalone KV
   - [x] Raft KV
-  - [ ] Multi-raft KV
-  - [ ] Transaction
+  - [x] Multi-raft KV
+  - [x] Transaction
 
 <!--
 **iwantsomememories/iwantsomememories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
